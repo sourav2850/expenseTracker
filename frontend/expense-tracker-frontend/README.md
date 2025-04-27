@@ -9,6 +9,4 @@ Currently, two official plugins are available:
 
 ## Expanding the ESLint configuration
 
-If y
-  update readme
-
+read me
